@@ -3,6 +3,10 @@
 ---
 Aplikasi ini menggunakan bahasa `javascript` yang berjalan menggunakan `node.js`. Berjalan di localhost (127.0.0.1) dengan port 9000 atau dengan URL `http://localhost:9000/`.
 
+Sebelum menjalankan server, terlebih dahulu install modul yang diperlukan dengan mengetikkan
+```
+npm install
+```
 Menjalankan server dapat mengetikkan perintah pada terminal
 ```
 npm run start
